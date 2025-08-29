@@ -110,32 +110,8 @@ sc delete {название, которые вы узнали в шаге 1}
 
 * Создайте её [тут](https://github.com/Flowseal/zapret-discord-youtube/issues)
 
-## 🗒️Добавление адресов прочих заблокированных ресурсов
-
-Список блокирующихся адресов для обхода можно расширить, добавляя их в:
-- [`list-general.txt`](./lists/list-general.txt) для доменов (поддомены автоматически учитываются)
-- [`ipset-all.txt`](./lists/ipset-all.txt) для IP и подсетей
-
 ## ⭐Поддержка проекта
 
 Вы можете поддержать проект, поставив :star: этому репозиторию (сверху справа этой страницы)
-
-Также, вы можете материально поддержать разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
-
-<a href="https://star-history.com/#Flowseal/zapret-discord-youtube&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
- </picture>
-</a>
-
-## ⚖️Лицензирование
-
-Проект распространяется на условиях лицензии [MIT](https://github.com/Flowseal/zapret-discord-youtube/blob/main/LICENSE.txt)
-
-## 🩷Благодарность участникам проекта
-
-[![Contributors](https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube)](https://github.com/Flowseal/zapret-discord-youtube/graphs/contributors)
 
 💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
